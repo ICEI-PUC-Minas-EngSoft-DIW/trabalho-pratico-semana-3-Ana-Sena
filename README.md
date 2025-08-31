@@ -8,17 +8,16 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Ana Julia de Sena Oliveira
+- Matricula: 897434
+- Proposta de projeto escolhida: Temas e Conteúdos Associados
+- Breve descrição sobre seu projeto: Meu projeto consiste em um site voltado ao ballet clássico, com intuito de explicar como ele surgiu, as histórias por trás dos espetáculos e evidenciar figuras importantes para o cenário.
 
 
 ## Print do(s) wireframe(s) criado
-
-<<  COLOQUE A IMAGEM AQUI >>
-
+![Wireframe da home page](<public/Img/Projeto site DIW.jpg>)
 
 ## Print da home-page criada
+![Home page - metade 1](public/Img/home-page1.png)
+![Home page - metade 2](public/Img/home-page2.png)
 
-<<  COLOQUE A IMAGEM AQUI >>
