@@ -1,3 +1,72 @@
 body {
-    background-color: aquamarine;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #EED7CB;
+}
+
+header{
+    background-color: #FD9898;
+    text-decoration: none;
+    height: auto;
+    overflow: hidden;
+    width: 100%;
+}
+
+a {
+    text-decoration: none;;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #FD9898;
+    max-width: 1440px;
+}
+
+.logo img {
+    height: 139.92px;
+    width: 112.5px;
+    object-fit: cover;
+    margin-right: 650px;
+}
+
+.logo-title {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.logo-title h1 {
+    font-family: 'Kapakana', cursive;
+    font-weight: 400;
+    font-size: 128px;
+    line-height: 1;
+    margin: 0;
+    color: #000000;
+}
+
+nav{
+    background-color: #e86975;
+    height: auto;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    text-decoration: none;
+}
+
+nav a {
+    color: black;
+    font-family: "Afacad", sans-serif; 
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-size: 40px;
+    padding: 14px 20px;
+}
+
+nav a:hover {
+    color: #EFAAB0;
 }
