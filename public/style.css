@@ -156,3 +156,21 @@ nav a:hover {
     color: #000;
     text-align: justify;
 }
+
+footer {
+    background-color: #FD9898;
+    text-align: center;
+    padding: 20px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    margin-top: 150px;
+}
+
+footer p {
+    font-family: 'Afacad', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    color: #000000;
+    margin: 0;
+}
