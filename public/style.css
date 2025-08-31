@@ -118,3 +118,41 @@ nav a:hover {
     color: #000000;
     max-width: 1250px;
 }
+
+.cta-section h3 {
+    font-family: 'Afacad', sans-serif;
+    font-weight: 500;
+    font-size: 40px;
+    margin-left: 55px;
+    margin-bottom: 20px;
+    color: #000000;
+}
+
+.cta-images {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 100px; /* adjust spacing as needed */
+    margin-bottom: 10px;
+}
+
+.cta-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cta-item img {
+    height: 400px;
+    width: auto;
+    display: block;
+    border-radius: 8px;
+}
+
+.cta-text {
+    margin-top: 16px;
+    font-family: 'Afacad', sans-serif;
+    font-size: 24px;
+    color: #000;
+    text-align: justify;
+}
